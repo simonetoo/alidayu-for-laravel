@@ -1,0 +1,6 @@
+{
+    "name": "vicens/alidayu-for-laravel",
+    "require": {
+        "vicens/alidayu": "^1.0"
+    }
+}
