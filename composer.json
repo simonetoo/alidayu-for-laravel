@@ -1,6 +1,36 @@
 {
     "name": "vicens/alidayu-for-laravel",
+    "description": "阿里云通信(阿里大于)SDK",
+    "keywords": [
+        "阿里大于",
+        "阿里大鱼",
+        "阿里云通信"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/vicens/alidayu/issues",
+        "source": "https://github.com/vicens/alidayu"
+    },
+    "authors": [
+        {
+            "name": "vicens",
+            "email": "521287718@qq.com"
+        }
+    ],
     "require": {
-        "vicens/alidayu": "^1.0"
+        "vicens/alidayu": "^1.0",
+        "illuminate/support": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vicens\\Alidayu\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vicens\\Alidayu\\Providers\\AlidayuServiceProvider"
+            ]
+        }
     }
 }
