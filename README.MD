@@ -1,9 +1,9 @@
 
-[![Build Status](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/badges/build.png?b=master)](https://scrutinizer-ci.com/g/vicens/alidayu/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/vicens/alidayu/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/vicens/alidayu-for-laravel/v/stable)](https://packagist.org/packages/vicens/alidayu)
-[![Total Downloads](https://poser.pugx.org/vicens/alidayu-for-laravel/downloads)](https://packagist.org/packages/vicens/alidayu)
-[![License](https://poser.pugx.org/vicens/alidayu-for-laravel/license)](https://packagist.org/packages/vicens/alidayu)
+[![Build Status](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/badges/build.png?b=master)](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/vicens/alidayu-for-laravel/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/vicens/alidayu-for-laravel/v/stable)](https://packagist.org/packages/vicens/alidayu-for-laravel)
+[![Total Downloads](https://poser.pugx.org/vicens/alidayu-for-laravel/downloads)](https://packagist.org/packages/vicens/alidayu-for-laravel)
+[![License](https://poser.pugx.org/vicens/alidayu-for-laravel/license)](https://packagist.org/packages/vicens/alidayu-for-laravel)
 
 
 ### 阿里云通信(阿里大于) For Laravel
@@ -17,7 +17,7 @@
 
 ### 环境要求
  - Laravel >= 5.1
- - vicens\alidayu >= 1.0
+ - [vicens\alidayu](http://github.com/vicens/alidayu) >= 1.0
  
 ### 安装
  
