@@ -27,7 +27,7 @@ composer require vicens/alidayu-for-laravel
 
 ### 使用
 
-#### Laravel5.5以下配置
+#### Laravel5.5以下需要注册服务提供者
 在`config/app.php`的`provider`数组中, 添加`\Vicens\AlidayuForLaravel\Providers\AlidayuServiceProvider`:
 ```php
 'providers' => [
