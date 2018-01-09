@@ -16,8 +16,8 @@
 阿里云通信SDK: [http://github.com/vicens/alidayu](http://github.com/vicens/alidayu)
 
 ### 环境要求
- - Laravel >= 5.1
- - [vicens\alidayu](http://github.com/vicens/alidayu) >= 1.0
+ - [illuminate\support](https://github.com/illuminate/support) ^5.1
+ - [vicens\alidayu](http://github.com/vicens/alidayu) ^1.0
  
 ### 安装
  
